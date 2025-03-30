@@ -1,2 +1,4 @@
 ## Olá, me chamo Bernardo, a.k.a. salsapunk!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salsapunk&show_icons=true&theme=tokyonight) Estou no primeiro período do curso de Ciências da COmputação.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salsapunk&show_icons=true&theme=tokyonight)
+
+Estou no primeiro período do curso de Ciências da Computação, com conhecimentos em HTML, CSS e JavaScript.
