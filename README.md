@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Bernardo!</h1>
 
 <p align="center">
-  <img src="./assets/eu.png" width="250">
+  <img src="./assets/eu.jpg" width="250">
 </p>
 
 <div align="center" style="display: flex; padding: 0 30%; justify-content: space-between">
