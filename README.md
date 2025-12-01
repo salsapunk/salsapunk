@@ -17,11 +17,8 @@
 </div>
 
 <h2 align="left">
-  About Me
+  Sobre mim:
 </h2>
-<p>
-  Here are some things about myself I'd like to share. 
-</p>
 <p>
   🎓 Estudando Ciências da Computação na UNINASSAU; <br/>
   🛠 Futuro engenheiro de software; <br/>
