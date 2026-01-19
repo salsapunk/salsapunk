@@ -14,6 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/neovim/neovim-original.svg" width="50" />
   <img width="6">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" width="50" />
+  <img width="6">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original.svg" width="50" />
 </div>
 
 <h2 align="left">
