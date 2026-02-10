@@ -7,6 +7,8 @@
 <div align="center" style="display: flex; padding: 0 30%; justify-content: space-between">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="50" />
   <img width="6">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original.svg" width="50" />
+  <img width="6">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="50" />
   <img width="6">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
@@ -14,8 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/neovim/neovim-original.svg" width="50" />
   <img width="6">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" width="50" />
-  <img width="6">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original.svg" width="50" />
 </div>
 
 <h2 align="left">
