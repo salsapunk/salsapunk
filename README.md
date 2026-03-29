@@ -1,5 +1,9 @@
 <h1 align="center">Olá, eu sou Bernardo! 👋</h1>
 
+<p align="center">
+  <img src="./assets/eu.jpg" width="250">
+</p>
+
 <br>
 
 <div align="center">
@@ -9,10 +13,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="./assets/eu.jpg" width="250">
-</p>
 
 <div align="center" style="display: flex; padding: 0 30%; justify-content: space-between">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="50" />
